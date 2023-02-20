@@ -32,8 +32,7 @@ The CSS used on the website closely resembles Google's own aesthetics, based on 
 
 ## How to Run
 
-To run the website, simply download the project files and open the index.html file in a web browser.
-
+To run the website, click [here](https://matheudev.github.io/google-search/) to try the live demo.
 ## Credits
 
 This project was completed as part of the CS50W course, and the specifications for the project were provided by the course staff. The CSS design was based on Google's own aesthetics.
